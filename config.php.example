@@ -1,0 +1,7 @@
+<?php
+
+define('APP_KEY',          '');
+define('MYSQL_HOST',       'localhost');
+define('MYSQL_USER',       '');
+define('MYSQL_PASS',       '');
+define('MYSQL_DB',         'logbook');
